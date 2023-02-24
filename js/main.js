@@ -13,7 +13,15 @@ function sendMessage() {
     
     })
   }).then(res => res.json())
-    .then(res => console.log(res));
+    .then((res) => {
+		console.log(res)
+		
+		
+		$("body").append(
+			$("<div class='flash-message flash-message--success'><p>Udało się wysłać wiadomość</p></div>")
+		);
+		
+	});
 
 
 }
