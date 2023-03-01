@@ -4,6 +4,15 @@ Zmieniono:
 - kolory i ikony
 - dodano formularz kontaktowy
 - dodano zakładkę umiejętności
+------------------------------------------------------------------
+
+CV site based on a free modified template.
+The features that was changed:
+- text layout
+- colors and icons
+- contact form was added
+- skill tab was added
+------------------------------------------------------------------
 
 TITLE: 
 Personal - 100% Fully Responsive Free HTML5 Bootstrap Template
