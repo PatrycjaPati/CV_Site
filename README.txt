@@ -1,3 +1,9 @@
+Strona z CV oparta na darmowym szablonie, zmodyfikowana.
+Zmieniono:
+- rozmieszczenie tekstu
+- kolory i ikony
+- dodano formularz kontaktowy
+- dodano zakładkę umiejętności
 
 TITLE: 
 Personal - 100% Fully Responsive Free HTML5 Bootstrap Template
