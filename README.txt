@@ -4,6 +4,11 @@ Zmieniono:
 - kolory i ikony
 - dodano formularz kontaktowy
 - dodano zakładkę umiejętności
+
+W planach:
+- RWD
+- Accessibility
+- Wersja Angielska
 ------------------------------------------------------------------
 
 CV site based on a free modified template.
@@ -12,6 +17,11 @@ The features that was changed:
 - colors and icons
 - contact form was added
 - skill tab was added
+
+I'm working on:
+- RWD
+- Accessibility
+- English version
 ------------------------------------------------------------------
 
 TITLE: 
